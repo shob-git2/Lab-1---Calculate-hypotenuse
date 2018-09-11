@@ -1,0 +1,15 @@
+\\ First attempt at hypotenuse calculating code
+a_side numeric
+b_side numeric
+h_side (a_side, b_side) {
+print("input first side");
+cin(a_side);
+print("Input second side");
+cin(b_side);
+
+h_side=sqrt(a^2+b^2);
+
+print("The hypotenuse is: ")
+print (h_side)
+
+}
