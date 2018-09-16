@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main()
+long double s1 s2 h1;
+cout << "Enter first positive real side: \n ";
+cin >> s1;
+cout << "Enter second positive real side: \n ";
+cin << s2;
+h1sq << pow(s1, 2)+pow(s2, 2);
+h1 << pow(h1sq, 0.5);
+cout << "The length of the hypotenuse is: \n ";
+cout << h1; <<endl;
